@@ -1,1 +1,1 @@
-# cedar-images
+# Cedar Images
